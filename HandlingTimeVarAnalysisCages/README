@@ -1,0 +1,9 @@
+HandlingTimeVarAnalysisCages contains the following:
+
+HandlingTimeSimFunction which defines a function to perform simulations to estimate the
+amount by which individual handling time variation would increase population level feeding 
+rates
+
+HandlingVarAnalysisCages uses HandlingTimeSimFunction and the data in HandlingAnalysisData.csv
+and NucellaHandlingTimes.csv to assess the extent to which individual handling time variation
+may have increased population level feeding rates in the field experiment
