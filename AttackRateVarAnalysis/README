@@ -1,0 +1,10 @@
+AttackRateVarAnalysis contains:
+
+AttackRateNonlinearAveragingAnalysis which contains code to analyze the whelk data to estimate 
+the effects of individual-level attack rate variation on population feeding rates 
+and the combined effects of individual attack rate variation and differences among cages in 
+resource densities. It requires the .csv's: Feeding_Data_Wide_AllInd.csv, 
+Handling_data_AllInd.csv, and ResourceDensityData.csv
+
+Handling_Data_Code contains the code used to create the file Handling_data_AllInd.csv and 
+requires FeedingData_Long_Clean
